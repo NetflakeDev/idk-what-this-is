@@ -1,3 +1,1 @@
-# idk-what-this-is
-
-Printing from 1 to 100 without using numbers.
+# Print from 1 to 100 without using numbers.
